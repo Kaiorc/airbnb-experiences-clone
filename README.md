@@ -4,7 +4,7 @@
 https://www.figma.com/file/jcqjH7888nR4HnfemTlGM6/Airbnb-Experiences-(Copy)
 
 ## Description:
-Suggestion of scrimba.com of a static web page as practice solo project in React.js
+Static web page built in class using React.js for practice
 
 ### Quick start:
 
