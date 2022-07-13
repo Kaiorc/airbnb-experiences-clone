@@ -1,6 +1,6 @@
 # Airbnb Experiences Clone
 
-![Isso é uma imagem]((https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8247db4-fc98-48ad-a100-bfafa10e5a2a/Untitled.png))
+![Isso é uma imagem](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8247db4-fc98-48ad-a100-bfafa10e5a2a/Untitled.png)
 
 ## Figma file:
 https://www.figma.com/file/jcqjH7888nR4HnfemTlGM6/Airbnb-Experiences-(Copy)
