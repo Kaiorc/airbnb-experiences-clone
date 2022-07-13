@@ -4,7 +4,7 @@
 https://www.figma.com/file/jcqjH7888nR4HnfemTlGM6/Airbnb-Experiences-(Copy)
 
 ## Description:
-Static web page built in class using React.js for practice
+Static web page built in scrimba.com "Learn React for Free" class using React.js for practice
 
 ## Quick start:
 ```
